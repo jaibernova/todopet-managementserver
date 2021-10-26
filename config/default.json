@@ -31,7 +31,7 @@
         "exception_log_file_name": "exceptions.log"
     },
     "frontend_urls": {
-        "password_reset_base_url": "http://localhost:5202/#/password-reset"
+        "password_reset_base_url": "https://todopet-magagement-webclient.pages.dev/#/password-reset"
     },
     "aws_settings": {
         "s3": {
