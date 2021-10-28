@@ -108,7 +108,7 @@ app.use(session({
   rolling: true,  // setting true updates expiration with maxAge after every user request
   saveUninitialized: true,  // setting true saves even unmodified sessions
   cookie: {
-    httpOnly: true,
+    // httpOnly: true,
     maxAge: config.get('session.max_age')
     // secure: true, // Set this to true only after veniqa has a ssl enabled site
   }

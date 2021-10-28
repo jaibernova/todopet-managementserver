@@ -18,6 +18,8 @@
     },
     "allowed_origins": [
         "https://todopet-magagement-webclient.pages.dev",
+        "http://adminserver.lukapetshop.com.co",
+        "https://adminserver.lukapetshop.com.co",
         "http://localhost:5202",
         "http://localhost:3000"
     ],
